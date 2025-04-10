@@ -1,8 +1,6 @@
 package model;
 
 import java.io.*;
-import java.util.*;
-import java.util.Scanner;
 
 //Classe Pessoa
 class Pessoa implements Serializable {
